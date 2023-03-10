@@ -9,7 +9,7 @@
             Console.Write("Sabendo disso, insira o valor do raio: ");
             double raio = Convert.ToDouble(Console.ReadLine());
 
-            double pi = 3.14;
+            double pi = Math.PI;
             double raioCubo = raio * raio * raio;
 
             double calcVolume = pi * raioCubo;
