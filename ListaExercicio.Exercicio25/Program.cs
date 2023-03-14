@@ -16,7 +16,7 @@
                 for (int i = 0; i < 11; i++)
                 {
                     tabuada = n * i;
-                    Console.WriteLine("Resultado: " + tabuada);
+                    Console.WriteLine(+ n + i + "=" + tabuada);
                 }
                 
             }

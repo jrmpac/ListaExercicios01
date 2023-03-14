@@ -14,7 +14,7 @@
                 for (int i = 0; i <= 10; i++)
                 {
                     int resultado = num * i;
-                    Console.WriteLine(num + ":" + i + "= " + resultado);
+                    Console.WriteLine(num + "x" + i + "= " + resultado);
                 }
                 Console.WriteLine("");
             }
